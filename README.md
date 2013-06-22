@@ -17,4 +17,4 @@ Learned about different types of licenses!
 
 This project is licensed under the [Gnu Public License](http://www.gnu.org/licenses/gpl.html).
 
-![Panda](http://farm9.staticflickr.com/8366/8458608183_176429f065_b.jpg)
+![Panda](http://farm1.staticflickr.com/132/358227546_d177d158b3.jpg)
