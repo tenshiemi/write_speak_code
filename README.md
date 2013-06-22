@@ -17,4 +17,4 @@ Learned about different types of licenses!
 
 This project is licensed under the [Gnu Public License](http://www.gnu.org/licenses/gpl.html).
 
-![Panda](http://onebigphoto.com/uploads/2012/01/pandas-in-love.jpg)
+![Panda](http://farm9.staticflickr.com/8366/8458608183_176429f065_b.jpg)
