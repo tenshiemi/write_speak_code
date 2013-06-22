@@ -1,5 +1,8 @@
 # Write/Speak/Code Open Source Project
 
+Twitter: [@emilychen](https://tenshiemi.twitter.com)
+Instagram: [tenshiemi](http://instagram.com/tenshiemi)
+
 Practicing my Github and MarkDown skillz!
 
 Found this awesome [Markdown resource](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
