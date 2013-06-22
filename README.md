@@ -1,6 +1,6 @@
 # Write/Speak/Code Open Source Project
 
-Twitter: [@emilychen](https://tenshiemi.twitter.com)
+Twitter: [@emilychen](https://www.twitter.com/emilychen)  
 Instagram: [tenshiemi](http://instagram.com/tenshiemi)
 
 Practicing my Github and MarkDown skillz!
